@@ -1,0 +1,45 @@
+/*element styling*/
+
+h1 {
+  font-family: Playfair Display;
+  font-weight: bold;
+}
+
+h3 {
+  font-family: Josefin Slab;
+  font-weight: bold;
+}
+
+p {
+  font-family: Source Sans Pro;
+}
+
+/*class styling*/
+
+.image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+}
+
+.img-caption {
+  font-style: italic;
+  padding: 0.9em;
+  text-align: center;
+}
+
+.subtitle {
+  font-size: 22px;
+  text-align: center;
+}
+
+.title {
+  text-align: center;
+  font-size: 40px;
+}
+
+.tribute-info {
+  font-size: 20px;
+  font-weight: normal;
+}
